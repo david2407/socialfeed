@@ -1,0 +1,12 @@
+ .widget {background-color: lightblue;
+color: black;
+
+
+&__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+}

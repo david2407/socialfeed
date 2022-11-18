@@ -1,0 +1,14 @@
+.post {
+    padding: 10px;
+    border: 1px solid black;
+    width: 100%;
+    cursor: pointer;
+
+    &__author{
+        font-weight: bold;
+    }
+
+    &__text{
+        font-size: larger;
+    }
+}

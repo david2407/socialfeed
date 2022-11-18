@@ -1,0 +1,5 @@
+{
+    "url" : "https://api.massrelevance.com/MassRelDemo/kindle.json",
+    "limit": 20,
+    "interval": 30000
+  }
